@@ -1,6 +1,12 @@
 
 # NodePop
 
+## DevOps practice
+
+[Exercise 1](http://www.onedei.com/)
+
+[Exercise 2](http://54.175.169.80)
+
 [Demo](/anuncios) of the methods (this link works only if you run the project)
 
 Api for the iOS/Android apps.
