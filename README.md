@@ -49,7 +49,7 @@ To start in development mode:
 ### Base Path
 
 The API can be used with the path: 
-[API V1](http://www.api.onedei.com)
+[API V1](http://www.onedei.com/api/anuncios)
 
 ### Language
 
