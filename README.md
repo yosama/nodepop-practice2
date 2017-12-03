@@ -7,7 +7,7 @@
 
 [Exercise 2](http://54.175.169.80)
 
-[Demo](http://www.onedei.com/anuncios) of the methods (this link works only if you run the project)
+[Demo](http://www.onedei.com) of the methods (this link works only if you run the project)
 
 Api for the iOS/Android apps.
 
@@ -49,7 +49,7 @@ To start in development mode:
 ### Base Path
 
 The API can be used with the path: 
-[API V1](http://www.onedei.com/apiv1/anuncios)
+[API V1](http://www.api.onedei.com)
 
 ### Language
 
